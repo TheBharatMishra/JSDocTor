@@ -1,0 +1,3 @@
+# JSDocTor
+
+Learning about JSDoc
